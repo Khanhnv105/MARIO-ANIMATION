@@ -1,8 +1,0 @@
-{
-        "delay": 5,
-        "cycle_mode": "REPEAT",
-        "images_path": "data/Assets/Free/Traps/Fan/On (24x8)",
-        "conditions": [],
-        "images_colorkey": [0, 0, 0],
-        "images_scale": 2
-}

@@ -1,9 +1,0 @@
-
-{
-        "delay": 3,
-        "cycle_mode": "END",
-        "images_path": "data/Assets/Free/Main Characters/Appearing (96x96)",
-        "conditions": [],
-        "images_colorkey": [0, 0, 0],
-        "images_scale": 2
-}

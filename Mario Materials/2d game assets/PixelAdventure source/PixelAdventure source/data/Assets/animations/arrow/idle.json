@@ -1,8 +1,0 @@
-{
-  "delay": 5,
-  "cycle_mode": "REPEAT",
-  "images_path": "data/Assets/Free/Traps/Arrow/Idle (18x18)",
-  "conditions": [],
-  "images_colorkey": [0, 0, 0],
-  "images_scale": 2
-}

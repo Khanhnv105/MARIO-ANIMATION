@@ -1,9 +1,0 @@
-
-{
-        "delay": 2,
-        "cycle_mode": "REPEAT",
-        "images_path": "data/Assets/Free/Traps/Saw/On (38x38)",
-        "conditions": [],
-        "images_colorkey": null,
-        "images_scale": 2
-}
